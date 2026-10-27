@@ -5,6 +5,5 @@
 - C++
 - JavaScript
 - SQL
-- PL/SQL
 - HTML
 - CSS
